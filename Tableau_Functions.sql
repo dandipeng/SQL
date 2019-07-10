@@ -16,3 +16,9 @@ WHEN > 0 then 'Profitable'
 WHEN = 0 then 'EVEN'
 ELSE 'Unprofitable'
 END
+
+-- WINDOW_MAX()
+
+
+-- DATENAME()
+TODAY()
